@@ -5,6 +5,10 @@ body {
 }
 
 img {
-    width: 100px;
-    height: 100px
+    width: 10vw;
+    height: 10vw;
+}
+
+h1 {
+    text-align: center;
 }
